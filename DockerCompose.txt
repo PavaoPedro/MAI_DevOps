@@ -1,1 +1,33 @@
-.
+version: '3.8'
+
+services:
+  app:
+    image: openjdk:11-jre-slim
+    container_name: spring_boot_app
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:oracle:thin:@db:1521:ORCLCDB
+      SPRING_DATASOURCE_USERNAME: user
+      SPRING_DATASOURCE_PASSWORD: password
+      SPRING_JPA_HIBERNATE_DDL_AUTO: update
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./target/app.jar:/app.jar
+    entrypoint: ["java", "-jar", "/app.jar"]
+    depends_on:
+      - db
+
+  db:
+    image: gvenzl/oracle-free:latest
+    container_name: oracle_db
+    environment:
+      ORACLE_PASSWORD: password
+      ORACLE_DATABASE: ORCLCDB
+      ORACLE_USER: user
+    ports:
+      - "1521:1521"
+    volumes:
+      - oracle_data:/opt/oracle/oradata
+
+volumes:
+  oracle_data:
