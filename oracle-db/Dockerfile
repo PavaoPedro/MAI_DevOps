@@ -1,5 +1,5 @@
 #imagem oracledb
-FROM oracle/database:19.3.0-ee
+FROM gvenzl/oracle-xe
 EXPOSE 8080
 EXPOSE 1521
 ENV ORACLE_HOME /app/oracle/product/11.2.0/xe

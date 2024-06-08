@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\net (1)\\.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\controllers\\especiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:controllers\\especiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\views\\especie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:views\\especie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\migrations\\maioceandbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:migrations\\maioceandbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\persistencia\\maioceandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:persistencia\\maioceandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|c:\\users\\user\\downloads\\net (1)\\.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7AF6DF1-7231-4054-97B3-7E679166F844}|MAIOCEAN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MAIOCEANDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Migrations\\MAIOCEANDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MAIOCEANDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Migrations\\MAIOCEANDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MAIOCEANDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:03:09.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EspecieController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Controllers\\EspecieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EspecieController.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Controllers\\EspecieController.cs",
+              "RelativeToolTip": "Controllers\\EspecieController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:56:02.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MAIOCEANDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Persistencia\\MAIOCEANDbContext.cs",
+              "RelativeDocumentMoniker": "Persistencia\\MAIOCEANDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Persistencia\\MAIOCEANDbContext.cs",
+              "RelativeToolTip": "Persistencia\\MAIOCEANDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:54:17.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:54:07.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:51:46.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Especie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Especie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\Especie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Especie\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:50:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:50:15.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:47:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T04:48:31.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Downloads\\net (1)\\.net\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:47:36.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

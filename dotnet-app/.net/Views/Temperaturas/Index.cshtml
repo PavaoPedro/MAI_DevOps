@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MAIOCEAN.Models.Temperatura>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorTemperatura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataColeta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProfundTemperatura)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LatitudeTemp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LongitudeTemp)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorTemperatura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataColeta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProfundTemperatura)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LatitudeTemp)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LongitudeTemp)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdTemperatura">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdTemperatura">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdTemperatura">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+﻿@model MAIOCEAN.Models.Temperatura
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Gostaria de deletar isto?</h3>
+<div>
+    <h4>Temperatura</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorTemperatura)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataColeta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ProfundTemperatura)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LatitudeTemp)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LongitudeTemp)
+        </dt>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdTemperatura" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+

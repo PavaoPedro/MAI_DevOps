@@ -1,0 +1,52 @@
+﻿@model MAIOCEAN.Models.Imagem
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Gostaria de deletar isto?</h3>
+<div>
+    <h4>Imagem</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CaminhoImagem)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataHora)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataHora)
+        </dd>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CaminhoImagem)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Profundidade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Profundidade)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Latitude)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Latitude)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Longitude)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Longitude)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdImagem" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<MAIOCEAN.Models.Regiao>
+  
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeRegiao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TempMedia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatusRegiao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NomeRegiao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TempMedia)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StatusRegiao)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdRegiao">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdRegiao">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdRegiao">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

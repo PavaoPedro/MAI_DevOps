@@ -1,0 +1,68 @@
+﻿@model MAIOCEAN.Models.Temperatura
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Temperatura</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ValorTemperatura)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ValorTemperatura)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataColeta)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataColeta)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ProfundTemperatura)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ProfundTemperatura)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LatitudeTemp)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LatitudeTemp)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.LongitudeTemp)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.LongitudeTemp)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdTemperatura">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+@if (Model.Regiao is null)
+{
+    <p>
+        <a asp-controller="Regiao" asp-action="Criate" asp-route-id="@Model?.IdRegiao">Cadastrar Região</a>
+    </p>
+}
+else
+{
+    <p>
+        <a asp-controller="Regiao" asp-action="Edit" asp-route-id="@Model?.IdRegiao">Alterar Região</a>
+    </p>
+
+    <h3>Região</h3>
+
+    @Html.DisplayFor(model => model.Regiao.NomeRegiao)
+    @Html.DisplayFor(model => model.Regiao.TempMedia)
+    @Html.DisplayFor(model => model.Regiao.StatusRegiao)
+  
+}

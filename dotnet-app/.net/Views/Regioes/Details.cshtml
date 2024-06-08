@@ -1,0 +1,50 @@
+﻿@model MAIOCEAN.Models.Regiao
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Html.DisplayFor(model => model.NomeRegiao)</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TempMedia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TempMedia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StatusRegiao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StatusRegiao)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.IdRegiao">Editar</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+@if (Model.Robo is null)
+{
+    <p>
+        <a asp-controller="Robo" asp-action="Create" asp-route-id="@Model?.IdRobo">Cadastrar Robô</a>
+    </p>
+}
+else
+{
+    <p>
+        <a asp-controller="Robo" asp-action="Edit" asp-route-id="@Model?.IdRobo">Alterar Robôs</a>
+        <a asp-controller="Robo" asp-action="Edit" asp-route-id="@Model?.IdRobo">Alterar Robôs</a>
+    </p>
+
+    <h3>Robô</h3>
+
+    @Html.DisplayFor(model => model.Robo.StatusRobo)
+    @Html.DisplayFor(model => model.Robo.NmrSerie)
+
+}

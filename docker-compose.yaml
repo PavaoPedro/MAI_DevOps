@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   oracle-db:
     build:
@@ -15,13 +13,12 @@ services:
       ORACLE_USER: rm551600
       ORACLE_PASSWORD: 030900
     volumes:
-      - oradata:/app/oracle/oracledata
+      - oracledata:/app/oracle/oracledata
 
   dotnet-app:
     build:
       context: ./dotnet-app
       dockerfile: Dockerfile
-      image: dotnet:image
     container_name: dotnet-app
     ports:
       - "80:80"

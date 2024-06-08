@@ -1,0 +1,39 @@
+﻿@model MAIOCEAN.Models.Regiao
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delet</h1>
+
+<h3>Gostaria de deletar isto?</h3>
+<div>
+    <h4>Região</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.NomeRegiao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeRegiao)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.TempMedia)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.TempMedia)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.StatusRegiao)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.StatusRegiao)
+        </dd>
+    </dl>
+
+    <form asp-action="Delet">
+        <input type="hidden" asp-for="IdRegiao" />
+        <input type="submit" value="Delet" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
