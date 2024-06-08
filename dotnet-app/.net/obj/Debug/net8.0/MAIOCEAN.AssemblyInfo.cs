@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MAIOCEAN")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0de70dbaaa17d64451cdd916d0e1828897f7ac13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d013331d86e276d3201821275635f1d4de45ae8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MAIOCEAN")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MAIOCEAN")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

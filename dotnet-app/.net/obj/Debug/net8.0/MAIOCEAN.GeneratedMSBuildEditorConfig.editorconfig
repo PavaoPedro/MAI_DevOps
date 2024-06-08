@@ -9,139 +9,139 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MAIOCEAN
 build_property.RootNamespace = MAIOCEAN
-build_property.ProjectDir = c:\Users\André\fiap\Ocean_DevOps\MAI_DevOps\.net\
+build_property.ProjectDir = c:\Users\André\GS\MAI_DevOps\dotnet-app\.net\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\André\fiap\Ocean_DevOps\MAI_DevOps\.net
+build_property.MSBuildProjectDirectory = c:\Users\André\GS\MAI_DevOps\dotnet-app\.net
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Especie/Create.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Especie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Especie/Delete.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Especie/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Especie/Details.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Especie/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Especie/Edit.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Especie/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Especie/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Especie/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNwZWNpZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Home/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Home/Privacy.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Imagens/Create.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Imagens/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2Vuc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Imagens/Delete.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Imagens/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2Vuc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Imagens/Details.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Imagens/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2Vuc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Imagens/Edit.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Imagens/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2Vuc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Imagens/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Imagens/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1hZ2Vuc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Regioes/Create.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Regioes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Regioes/Delete.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Regioes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Regioes/Details.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Regioes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Regioes/Edit.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Regioes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Regioes/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Regioes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaW9lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Robos/Create.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Robos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ib3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Robos/Delete.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Robos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ib3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Robos/Details.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Robos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ib3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Robos/Edit.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Robos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ib3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Robos/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Robos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9ib3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Shared/Error.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Temperaturas/Create.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Temperaturas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGVyYXR1cmFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Temperaturas/Delete.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Temperaturas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGVyYXR1cmFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Temperaturas/Details.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Temperaturas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGVyYXR1cmFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Temperaturas/Edit.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Temperaturas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGVyYXR1cmFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Temperaturas/Index.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Temperaturas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVtcGVyYXR1cmFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/_ViewImports.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/_ViewStart.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/André/fiap/Ocean_DevOps/MAI_DevOps/.net/Views/Shared/_Layout.cshtml]
+[c:/Users/André/GS/MAI_DevOps/dotnet-app/.net/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-s6xupt557r
